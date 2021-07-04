@@ -1,4 +1,4 @@
-### Hola , I'm Sreeram SP ! 👋
+### Hi , I'm Sreeram SP ! 👋
 
 - 🔭 I’m currently working on Tech related stuff.
 - 🌱 I’m currently learning Java
