@@ -1,5 +1,21 @@
 ### Hi , I'm Sreeram SP ! 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+a href="sreeram.sp🙂#7015">
+  <img align="left" alt="Sreeram SP's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sreeram-sp-56b9aa172/">
+  <img align="left" alt="Sreeram SP's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/317ia4t32noyaalcyxzvzbhzmvxu?si=oNnr-TBzRZyjPVLUWik21A&dl_branch=1">
+  <img align="left" alt="Sreeram SP's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
 
 
 
