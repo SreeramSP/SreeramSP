@@ -31,7 +31,7 @@ Couple Of Things About Me :
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
   
 - 💼 any freelance work? do reach, [email](mailto:sreeramsp1234@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -45,5 +45,5 @@ Couple Of Things About Me :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📈 my github stats
+📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SreeramSP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
