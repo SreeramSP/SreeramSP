@@ -1,4 +1,4 @@
-<h2 align="center">### Hi , I'm Sreeram SP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center"> Hi , I'm Sreeram SP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <p align="center">
 <a href="sreeram.sp🙂#7015">
   <img align="left" alt="Sreeram SP's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -10,11 +10,11 @@
 <a href="https://open.spotify.com/user/317ia4t32noyaalcyxzvzbhzmvxu?si=oNnr-TBzRZyjPVLUWik21A&dl_branch=1">
   <img align="left" alt="Sreeram SP's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+</p>
 ![](https://visitor-badge.glitch.me/badge?page_id=SreeramSP.SreeramSP)
 
 <br />
-</p>
+
 
 
 I am a pre-final computer science student and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
