@@ -19,11 +19,16 @@ I am a pre-final computer science student and a freelance software engineer. My 
 
 ### Connect with me:
 
-[<img align="left" alt="Visakh's Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Visakh | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog]
-[<img align="left" alt="Visakh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Visakh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="sreeram.sp🙂#7015">
+  <img align="left" alt="Sreeram SP's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
+<a href="https://www.linkedin.com/in/sreeram-sp-56b9aa172/">
+  <img align="left" alt="Sreeram SP's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/317ia4t32noyaalcyxzvzbhzmvxu?si=oNnr-TBzRZyjPVLUWik21A&dl_branch=1">
+  <img align="left" alt="Sreeram SP's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 <br />
 
