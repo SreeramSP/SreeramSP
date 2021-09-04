@@ -9,8 +9,6 @@ I am a pre-final computer science student and a freelance software engineer. My 
 
 - 🔭 I’m currently working on Tech related stuff.
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with anyone
 - 💬 Ask me about Python
 - 📫 How to reach me: Instagram - @sreeram.sp
 - 😄 Pronouns: He/His
