@@ -1,5 +1,5 @@
 <h2 align="center">### Hi , I'm Sreeram SP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
+<p align="center">
 <a href="sreeram.sp🙂#7015">
   <img align="left" alt="Sreeram SP's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -14,6 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SreeramSP.SreeramSP)
 
 <br />
+</p>
 
 
 I am a pre-final computer science student and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
