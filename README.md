@@ -6,12 +6,15 @@ I am a pre-final computer science student and a freelance software engineer. My 
 ---
 
 ### Couple Of Things About Me : 
-- 🌱 I'm always looking forward to learning new technologies that enthrall me !
-- 👯 I love collaborating with other developers on innovative projects  
-- 🐧 Reboot is the best functionality in Windows, you can use it to boot to linux - That's how i use windows.
-- 🥅 2021 Goals: Work on learning new technologies to enhance my skilset by implementing them with a unique outlook.
-- ⚡ Fun fact: When I wrote this code, only God and I understood what I did. Now only God knows. 
 
+- 🔭 I’m currently working on Tech related stuff.
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with anyone
+- 💬 Ask me about Python
+- 📫 How to reach me: Instagram - @sreeram.sp
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday
 ---
 
 ### Connect with me:
