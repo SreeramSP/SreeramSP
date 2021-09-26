@@ -108,4 +108,4 @@ I am a pre-final computer science student and a freelance software engineer. My 
 [![Gmail Badge](https://img.shields.io/badge/-sreeramsp1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:sreeramsp1234@gmail.com)
 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=SreeramSP&row=1)](https://github.com/ryo-ma/github-profile-trophy)
