@@ -101,7 +101,7 @@ I am a pre-final computer science student and a freelance software engineer. My 
 </p>
 
 
-Find out more about me & feel free to connect with me here:
+### Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-SreeramSP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/sreeram-sp-56b9aa172/)
 [![Instagram Badge](https://img.shields.io/badge/-sreeram.sp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__its_hanesh__/)](https://www.instagram.com/sreeram.sp/)
