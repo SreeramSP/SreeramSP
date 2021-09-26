@@ -98,6 +98,6 @@ I am a pre-final computer science student and a freelance software engineer. My 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-HaneshJogani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/hanesh-jogani/)
+[![Linkedin Badge](https://img.shields.io/badge/-HaneshJogani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/sreeram-sp-56b9aa172/)
 [![Instagram Badge](https://img.shields.io/badge/-__its_hanesh__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__its_hanesh__/)](https://www.instagram.com/__its_hanesh__/)
-[![Gmail Badge](https://img.shields.io/badge/-hanesh.jogani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:hanesh.jogani@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hanesh.jogani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:sreeramsp1234@gmail.com)
