@@ -93,3 +93,11 @@ I am a pre-final computer science student and a freelance software engineer. My 
 [blog]: https://vbblog.netlify.app
 [instagram]: https://www.instagram.com/_.visaaaaxxkh/
 [linkedin]: https://www.linkedin.com/in/visakh-bobby-4858131b9/
+
+
+
+Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-HaneshJogani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/hanesh-jogani/)
+[![Instagram Badge](https://img.shields.io/badge/-__its_hanesh__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__its_hanesh__/)](https://www.instagram.com/__its_hanesh__/)
+[![Gmail Badge](https://img.shields.io/badge/-hanesh.jogani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:hanesh.jogani@gmail.com)
