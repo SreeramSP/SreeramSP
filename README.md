@@ -95,6 +95,11 @@ I am a pre-final computer science student and a freelance software engineer. My 
 [linkedin]: https://www.linkedin.com/in/visakh-bobby-4858131b9/
 
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hanesh-Jogani&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanesh-Jogani&theme=slateorange" />
+</p>
+
 
 Find out more about me & feel free to connect with me here:
 
