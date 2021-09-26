@@ -106,4 +106,6 @@ I am a pre-final computer science student and a freelance software engineer. My 
 [![Linkedin Badge](https://img.shields.io/badge/-SreeramSP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/sreeram-sp-56b9aa172/)
 [![Instagram Badge](https://img.shields.io/badge/-sreeram.sp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__its_hanesh__/)](https://www.instagram.com/sreeram.sp/)
 [![Gmail Badge](https://img.shields.io/badge/-sreeramsp1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:sreeramsp1234@gmail.com)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
