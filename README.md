@@ -81,18 +81,7 @@ I am a pre-final computer science student and a freelance software engineer. My 
 
 ---
 
-### GitHub Stats <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> 
 
-<!-- <img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&hide_border=false&theme=radical" /> -->
-![Sreeram SP's github stats](https://github-readme-stats.vercel.app/api?username=SreeramSP&show_icons=true&theme=radical&hide_border=false)
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=visakh47&theme=radical&show_icons=true&hide_border=false" alt="visakh47" /></p> -->
-
-
-
-[website]: https://vbinc-dev.netlify.app
-[blog]: https://vbblog.netlify.app
-[instagram]: https://www.instagram.com/_.visaaaaxxkh/
-[linkedin]: https://www.linkedin.com/in/visakh-bobby-4858131b9/
 
 
 <p align="left">
