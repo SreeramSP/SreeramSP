@@ -96,8 +96,8 @@ I am a pre-final computer science student and a freelance software engineer. My 
 
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hanesh-Jogani&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanesh-Jogani&theme=slateorange" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SreeramSP&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeramSP&theme=slateorange" />
 </p>
 
 
@@ -105,4 +105,4 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-HaneshJogani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanesh-jogani/)](https://www.linkedin.com/in/sreeram-sp-56b9aa172/)
 [![Instagram Badge](https://img.shields.io/badge/-__its_hanesh__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__its_hanesh__/)](https://www.instagram.com/sreeram.sp/)
-[![Gmail Badge](https://img.shields.io/badge/-hanesh.jogani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:sreeramsp1234@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sreeramsp1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanesh.jogani@gmail.com)](mailto:sreeramsp1234@gmail.com)
