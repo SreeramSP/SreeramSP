@@ -1,15 +1,15 @@
 ## Hi there, I'm Sreeram SP  👋  <img align="right" alt="Sreeram SP's GitHub Stats" src="https://komarev.com/ghpvc/?username=SreeramSP&style=flat-square&color=34568B&label=P+R+O+F+I+L+E+|+V+I+E+W+S" />
 
-I am a final computer science student and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am an Artificial Intelligence and Machine Learning Enthusiastic.
+I am an IT Officer at Canara Bank (Govt. of India) and a passionate software engineer. With a strong background in Computer Science, I combine my technical skills with a keen understanding of the banking sector’s digital transformation.
 
 
 ---
 
 ### Couple Of Things About Me : 
 
-- 🔭 I’m currently working on GAN @ IIITM Kerala.
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Python
+- 🔭 I currently work as an IT Officer at Canara Bank (Govt of India)
+- 🌱 Banker
+- 💬 Ask me about IT and Banking
 - 📫 How to reach me: Instagram - @sreeram.sp
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday
